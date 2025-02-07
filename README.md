@@ -10,7 +10,7 @@
 <h2>🚀 Ishga tushirish</h2>
 <ol>
     <li>Repository-ni klonlash:
-        <pre><code>git clone https://github.com/username/repository-name.git</code></pre>
+        <pre><code>https://github.com/muhammadjon-merzaqulov/mohirdev_kaggle_dropna-.git</code></pre>
     </li>
     <li>Jupyter Notebook-ni ochish:
         <pre><code>jupyter notebook ds-praktikum-3-modul-1-amaliyot.ipynb</code></pre>
