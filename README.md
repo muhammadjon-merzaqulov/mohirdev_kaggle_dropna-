@@ -1,6 +1,8 @@
 <h2>📂 Fayllar tarkibi</h2>
 <ul>
     <li><code>ds-praktikum-3-modul-1-amaliyot.ipynb</code> — Jupyter Notebook, asosiy kod va tahlillar shu faylda jamlangan.</li>
+    <li><code>melb_data.csv</code> — csv - Tayyor dataset, ma’lumotlarni tahlil qilish uchun ishlatiladi.</li>
+    <li><code>mydata.h5</code> — hdf - Tayyor dataset, ma’lumotlarni tahlil qilish uchun ishlatiladi.</li>
 </ul>
 
 <h2>📌 Talablar</h2>
