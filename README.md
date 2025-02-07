@@ -5,7 +5,8 @@
 
 <h2>📌 Talablar</h2>
 <p>Ushbu notebook-ni ishlatish uchun quyidagi kutubxonalar o‘rnatilgan bo‘lishi kerak:</p>
-<pre><code>pip install pandas numpy matplotlib seaborn</code></pre>
+<pre><code>pip install pandas</code></pre>
+<pre><code>pip install numpy</code></pre>
 
 <h2>🚀 Ishga tushirish</h2>
 <ol>
