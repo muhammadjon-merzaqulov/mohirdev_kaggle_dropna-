@@ -1,42 +1,34 @@
-DS Praktikum 3-Modul 1-Amaliyot
+<h2>📂 Fayllar tarkibi</h2>
+<ul>
+    <li><code>ds-praktikum-3-modul-1-amaliyot.ipynb</code> — Jupyter Notebook, asosiy kod va tahlillar shu faylda jamlangan.</li>
+</ul>
 
-Bu repository Data Science sohasidagi 3-modul 1-amaliyot topshirig'ini o'z ichiga oladi. Amaliyot davomida Python, Pandas, va boshqa Data Analytics vositalaridan foydalanilgan.
+<h2>📌 Talablar</h2>
+<p>Ushbu notebook-ni ishlatish uchun quyidagi kutubxonalar o‘rnatilgan bo‘lishi kerak:</p>
+<pre><code>pip install pandas numpy matplotlib seaborn</code></pre>
 
-📂 Fayllar tarkibi
+<h2>🚀 Ishga tushirish</h2>
+<ol>
+    <li>Repository-ni klonlash:
+        <pre><code>git clone https://github.com/username/repository-name.git</code></pre>
+    </li>
+    <li>Jupyter Notebook-ni ochish:
+        <pre><code>jupyter notebook ds-praktikum-3-modul-1-amaliyot.ipynb</code></pre>
+    </li>
+</ol>
 
-ds-praktikum-3-modul-1-amaliyot.ipynb — Jupyter Notebook, asosiy kod va tahlillar shu faylda jamlangan.
+<h2>📊 Amaliyot haqida</h2>
+<p>Ushbu amaliyotda <strong>ma’lumotlarni tahlil qilish</strong>, <strong>tozalash</strong>, va <strong>vizualizatsiya qilish</strong> bo‘yicha mashqlar bajarilgan. <strong>Pandas</strong> kutubxonasi yordamida ma'lumotlarni manipulyatsiya qilish, statistik hisob-kitoblar va grafik tahlillar bajarilgan.</p>
 
-📌 Talablar
+<h2>🎯 Maqsadlar</h2>
+<ul>
+    <li><strong>DataFrame</strong> bilan ishlash</li>
+    <li>Ma’lumotlarni tozalash va tayyorlash</li>
+    <li>Vizualizatsiya orqali tushunchalarni chiqarish</li>
+</ul>
 
-Ushbu notebook-ni ishlatish uchun quyidagi kutubxonalar o‘rnatilgan bo‘lishi kerak:
+<h2>📜 Litsenziya</h2>
+<p>Ushbu loyiha <strong>MIT</strong> litsenziyasi asosida taqdim etilgan.</p>
 
-pip install pandas numpy matplotlib seaborn
-
-🚀 Ishga tushirish
-
-Repository-ni klonlash:
-
-git clone https://github.com/username/repository-name.git
-
-Jupyter Notebook-ni ochish:
-
-jupyter notebook ds-praktikum-3-modul-1-amaliyot.ipynb
-
-📊 Amaliyot haqida
-
-Ushbu amaliyotda ma’lumotlarni tahlil qilish, tozalash, va vizualizatsiya qilish bo‘yicha mashqlar bajarilgan. Pandas kutubxonasi yordamida ma'lumotlarni manipulyatsiya qilish, statistik hisob-kitoblar va grafik tahlillar bajarilgan.
-
-🎯 Maqsadlar
-
-DataFrame bilan ishlash
-
-Ma’lumotlarni tozalash va tayyorlash
-
-Vizualizatsiya orqali tushunchalarni chiqarish
-
-📜 Litsenziya
-
-Ushbu loyiha MIT litsenziyasi asosida taqdim etilgan.
-
-🚀 Data Science yo‘nalishida rivojlanishda davom etamiz!
-
+<hr>
+<p>🚀 <strong>Data Science yo‘nalishida rivojlanishda davom etamiz!</strong></p>
